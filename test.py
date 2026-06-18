@@ -1,4 +1,5 @@
-#-- You've successfully cloned this repo.
+#-- You've successfully cloned this repository.
+#-- Now you've successfully pushed a commit to this repository.
 
 from time import sleep
 

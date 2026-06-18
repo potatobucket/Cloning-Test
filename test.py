@@ -1,3 +1,5 @@
+#-- You've successfully cloned this repo.
+
 from time import sleep
 
 print("Successful test!")

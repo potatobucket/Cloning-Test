@@ -3,6 +3,8 @@
 #-- Here's to see if you remember how to make a Git commit to this repository.
 #-- One last test to see if you can successfully update this file from your laptop while SSH-ing into your Linux machine.
 
+#-- It's been some time! Do you still remember how to commit from the terminal?
+
 from time import sleep
 
 print("Successful test!")

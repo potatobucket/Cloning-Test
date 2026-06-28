@@ -12,3 +12,7 @@ sleep(1)
 print("You successfully cloned a GitHub repository!")
 sleep(1)
 print("Congratulations, ya jerk!")
+
+print("Waiting...")
+sleep(5)
+print("No, YOU'RE the jerk!")

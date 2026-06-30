@@ -5,6 +5,8 @@
 
 #-- It's been some time! Do you still remember how to commit from the terminal?
 
+#-- Testing updating multiple files in the terminal.
+
 from time import sleep
 
 print("Successful test!")

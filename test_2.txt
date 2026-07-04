@@ -2,3 +2,6 @@ This is a text document. I haven't tried making a NEW file and uploading
 it to GitHub with git commands in the terminal.
 
 This is a test to see if updating two files works the way I think it does.
+
+I really, really should do some real coding sometime. I'm just so dumb and
+lazy.
